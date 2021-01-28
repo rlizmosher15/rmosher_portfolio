@@ -1141,6 +1141,68 @@ section.lazy-placeholder:after {
 .cid-sn3GVoX9Nm .mbr-section-btn {
   text-align: center;
 }
+.cid-snpaL3wh9t {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #232323;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.cid-snpaL3wh9t .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-snpaL3wh9t .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-snpaL3wh9t .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-snpaL3wh9t .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-snpaL3wh9t .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-snpaL3wh9t .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-snpaL3wh9t .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-snpaL3wh9t .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-snpaL3wh9t .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+}
 .cid-slwvL3tMHN {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1251,6 +1313,70 @@ section.lazy-placeholder:after {
     padding: 0 0 2rem 0 !important;
     -webkit-flex-basis: initial !important;
   }
+}
+.cid-snpaJl5OFu {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.cid-snpaJl5OFu .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-snpaJl5OFu .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-snpaJl5OFu .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-snpaJl5OFu .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-snpaJl5OFu .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-snpaJl5OFu .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-snpaJl5OFu .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-snpaJl5OFu .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-snpaJl5OFu .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-sll1eK4YSc {
   padding-top: 90px;
@@ -3322,9 +3448,14 @@ section.lazy-placeholder:after {
 .cid-siuVH8MTQt .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-snoeErgGXc {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/blueplantconcepts-2000x1151.png");
+}
 .cid-smhX9uwGCg {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-smhX9uwGCg .mbr-text,
@@ -3335,8 +3466,8 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-sn3L6nhF3Y {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
@@ -3353,8 +3484,8 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-smhYyFsctq {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-smhYyFsctq .mbr-text,
@@ -3362,8 +3493,8 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-smhZf111pO {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-smhZf111pO .mbr-text,
@@ -3371,8 +3502,8 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-smhZMbOYq5 {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-smhZMbOYq5 .mbr-text,
@@ -3380,8 +3511,8 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-smi0iO5VXi {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-smi0iO5VXi .mbr-text,
@@ -3389,8 +3520,8 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-smi1gjQo1e {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-smi1gjQo1e .mbr-text,
@@ -3398,8 +3529,8 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-smi1E3yS5Y {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-smi1E3yS5Y .mbr-text,
@@ -3407,8 +3538,8 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-smi24MCXBf {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-smi24MCXBf .mbr-text,
